@@ -1,0 +1,85 @@
+body {
+
+    padding-top:70px;
+
+}
+
+
+/* Wallet
+------------------------------------ */
+section.wallet {
+    max-width:100%;
+    overflow:scroll;
+    margin-bottom:20px;
+}
+
+div.wallet {
+    position:relative;
+    font-family: monospace;
+    min-width:760px;
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome and Opera */
+}
+
+div.wallet > .background {
+    z-index:1;
+    position:relative; top:0; left:0;
+    display:block; width:100%;
+}
+
+div.wallet > .content {
+    z-index:2;
+    position:absolute; top:0; right:0; bottom:0; left:0;
+    display:block; 
+}
+
+div.wallet > .content > div {
+    position: absolute;
+    width:12%; height:46%;
+    transform-origin: 0 0;
+}
+
+div.wallet > .content > .public {
+	top: 61%; left: 91%;
+	transform: rotate(90deg);
+}
+
+div.wallet > .content > .secret {
+    top: 39%; left: 9%;
+    transform: rotate(270deg);
+}
+
+div.wallet > .content > .secret > div {
+}
+
+div.wallet > .content > div > .qr-code > img {
+    width:100%;
+}
+
+div.wallet > .content > div > .key {
+    margin-top:0.5em;
+    font-size:11px; line-height:1.125em;
+    text-align:center; word-break: break-all;
+}
+
+@media print {
+
+    div.wallet > .content > div > .key {
+        font-size:7pt !important; 
+    }
+
+}
+
+@media print  and (orientation: landscape) {
+
+    div.wallet > .content > div > .key {
+        font-size:11.5pt !important;
+    }
+
+}
+

@@ -1,0 +1,293 @@
+/* One Fifth
+------------------------------------ */
+.col-xs-2p4, .col-sm-2p4, .col-md-2p4, .col-lg-2p4{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-2p4 {
+  float: left;
+}
+.col-xs-2p4 {
+  width: 20%;
+}
+.col-xs-pull-2p4 {
+  right: 20%;
+}
+.col-xs-push-2p4 {
+  left: 20%;
+}
+.col-xs-offset-2p4 {
+  margin-left: 20%;
+}
+@media (min-width: 768px) {
+  .col-sm-2p4 {
+    float: left;
+  }
+  .col-sm-2p4 {
+    width: 20%;
+  }
+  .col-sm-push-2p4 {
+    left: 20%;
+  }
+  .col-sm-offset-2p4 {
+    margin-left: 20%;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-2p4 {
+    float: left;
+  }
+  .col-md-2p4 {
+    width: 20%;
+  }
+  .col-md-pull-2p4 {
+    right: 20%;
+  }
+  .col-md-push-2p4 {
+    left: 20%;
+  }
+  .col-md-offset-2p4 {
+    margin-left: 20%;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-2p4 {
+    float: left;
+  }
+  .col-lg-2p4 {
+    width: 20%;
+  }
+  .col-lg-pull-2p4 {
+    right: 20%;
+  }
+  .col-lg-push-2p4 {
+    left: 20%;
+  }
+  .col-lg-offset-2p4 {
+    margin-left: 20%;
+  }
+}
+
+
+
+/* Two Fifths
+------------------------------------ */
+.col-xs-4p8, .col-sm-4p8, .col-md-4p8, .col-lg-4p8{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-4p8 {
+  float: left;
+}
+.col-xs-4p8 {
+  width: 40%;
+}
+.col-xs-pull-4p8 {
+  right: 40%;
+}
+.col-xs-push-4p8 {
+  left: 40%;
+}
+.col-xs-offset-4p8 {
+  margin-left: 40%;
+}
+@media (min-width: 768px) {
+  .col-sm-4p8 {
+    float: left;
+  }
+  .col-sm-4p8 {
+    width: 40%;
+  }
+  .col-sm-push-4p8 {
+    left: 40%;
+  }
+  .col-sm-offset-4p8 {
+    margin-left: 40%;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-4p8 {
+    float: left;
+  }
+  .col-md-4p8 {
+    width: 40%;
+  }
+  .col-md-pull-4p8 {
+    right: 40%;
+  }
+  .col-md-push-4p8 {
+    left: 40%;
+  }
+  .col-md-offset-4p8 {
+    margin-left: 40%;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-4p8 {
+    float: left;
+  }
+  .col-lg-4p8 {
+    width: 40%;
+  }
+  .col-lg-pull-4p8 {
+    right: 40%;
+  }
+  .col-lg-push-4p8 {
+    left: 40%;
+  }
+  .col-lg-offset-4p8 {
+    margin-left: 40%;
+  }
+}
+
+
+
+/* Three Fifths
+------------------------------------ */
+.col-xs-7p2, .col-sm-7p2, .col-md-7p2, .col-lg-7p2{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-7p2 {
+  float: left;
+}
+.col-xs-7p2 {
+  width: 60%;
+}
+.col-xs-pull-7p2 {
+  right: 60%;
+}
+.col-xs-push-7p2 {
+  left: 60%;
+}
+.col-xs-offset-7p2 {
+  margin-left: 60%;
+}
+@media (min-width: 768px) {
+  .col-sm-7p2 {
+    float: left;
+  }
+  .col-sm-7p2 {
+    width: 60%;
+  }
+  .col-sm-push-7p2 {
+    left: 60%;
+  }
+  .col-sm-offset-7p2 {
+    margin-left: 60%;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-7p2 {
+    float: left;
+  }
+  .col-md-7p2 {
+    width: 60%;
+  }
+  .col-md-pull-7p2 {
+    right: 60%;
+  }
+  .col-md-push-7p2 {
+    left: 60%;
+  }
+  .col-md-offset-7p2 {
+    margin-left: 60%;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-7p2 {
+    float: left;
+  }
+  .col-lg-7p2 {
+    width: 60%;
+  }
+  .col-lg-pull-7p2 {
+    right: 60%;
+  }
+  .col-lg-push-7p2 {
+    left: 60%;
+  }
+  .col-lg-offset-7p2 {
+    margin-left: 60%;
+  }
+}
+
+
+
+/* Four Fifths
+------------------------------------ */
+.col-xs-9p6, .col-sm-9p6, .col-md-9p6, .col-lg-9p6{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-9p6 {
+  float: left;
+}
+.col-xs-9p6 {
+  width: 80%;
+}
+.col-xs-pull-9p6 {
+  right: 80%;
+}
+.col-xs-push-9p6 {
+  left: 80%;
+}
+.col-xs-offset-9p6 {
+  margin-left: 80%;
+}
+@media (min-width: 768px) {
+  .col-sm-9p6 {
+    float: left;
+  }
+  .col-sm-9p6 {
+    width: 80%;
+  }
+  .col-sm-push-9p6 {
+    left: 80%;
+  }
+  .col-sm-offset-9p6 {
+    margin-left: 80%;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-9p6 {
+    float: left;
+  }
+  .col-md-9p6 {
+    width: 80%;
+  }
+  .col-md-pull-9p6 {
+    right: 80%;
+  }
+  .col-md-push-9p6 {
+    left: 80%;
+  }
+  .col-md-offset-9p6 {
+    margin-left: 80%;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-9p6 {
+    float: left;
+  }
+  .col-lg-9p6 {
+    width: 80%;
+  }
+  .col-lg-pull-9p6 {
+    right: 80%;
+  }
+  .col-lg-push-9p6 {
+    left: 80%;
+  }
+  .col-lg-offset-9p6 {
+    margin-left: 80%;
+  }
+}
