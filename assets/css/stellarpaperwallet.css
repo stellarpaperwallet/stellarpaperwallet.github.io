@@ -84,7 +84,7 @@ div.wallet > .content > div > .key {
 }
 
 /* CBLOCKS */
-.sponsor {
+.top-banner {
     color: #fff;
     background: #E10098;
     text-align: center;
@@ -96,7 +96,7 @@ div.wallet > .content > div > .key {
     padding: 5px 0px;
 }
 
-.sponsor > span {
+.top-banner > span {
     background: #fff;
     color: #E10098;
     border-radius:4px;
@@ -105,6 +105,6 @@ div.wallet > .content > div > .key {
     font-size:0.8em;
 }
 
-.sponsor:hover {
+.top-banner:hover {
     color: #fff;
 }
