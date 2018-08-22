@@ -82,29 +82,3 @@ div.wallet > .content > div > .key {
     }
 
 }
-
-/* CBLOCKS */
-.top-banner {
-    color: #fff;
-    background: #E10098;
-    text-align: center;
-    cursor: pointer;
-    display: block;
-    width: 100%;
-    line-height:1.5em;
-    text-decoration:none;
-    padding: 5px 0px;
-}
-
-.top-banner > span {
-    background: #fff;
-    color: #E10098;
-    border-radius:4px;
-    padding:2px 0.35em;
-    margin-left:0.5px;
-    font-size:0.8em;
-}
-
-.top-banner:hover {
-    color: #fff;
-}
